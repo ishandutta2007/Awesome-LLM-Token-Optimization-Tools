@@ -98,5 +98,19 @@ Star the repo if you find it useful!
 
 ---
 
+## 📈 Star History
+
+<div align="center">
+  <a href="https://star-history.com/#ishandutta2007/Awesome-LLM-Token-Optimization-Tools&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LLM-Token-Optimization-Tools&type=date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LLM-Token-Optimization-Tools&type=date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LLM-Token-Optimization-Tools&type=date" width="600" />
+    </picture>
+  </a>
+</div>
+
+---
+
 **Made for LLM developers, AI engineers, and cost-conscious teams.**  
 Let's make LLM usage more efficient, affordable, and scalable.
