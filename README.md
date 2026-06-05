@@ -23,27 +23,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (LLM Token Optimization)
 
-- **[LLMLingua](https://github.com/microsoft/LLMLingua)** (with commercial extensions)  
-  Leading prompt compression tool that reduces token usage while preserving critical information using smaller models for selective compression.
-
-- **[LiteLLM](https://litellm.ai/)**  
-  Popular unified LLM gateway with built-in caching, fallback, and cost optimization features across 100+ providers.
-
-- **[Langfuse](https://langfuse.com/)**  
-  Comprehensive LLM observability platform with detailed token tracking, cost analysis, and optimization insights.
-
-- **[Patronus AI](https://patronus.ai/)**  
-  AI safety and evaluation platform with strong token usage monitoring and optimization capabilities.
-
-- **[Headroom](https://github.com/chopratejas/headroom)** (and related tools)  
-  Intelligent context compression tool focused on reducing redundant tokens in logs, outputs, and RAG chunks.
-
-- **[Redis LangCache](https://redis.io/)**  
-  Semantic caching solution using Redis for storing and retrieving LLM responses to avoid repeated token usage.
+| Product | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **[LiteLLM](https://litellm.ai/)** | Unified LLM gateway with built-in caching, fallback, and cost optimization across 100+ providers. | **Free:** Community Edition (Self-hosted). **Paid:** Enterprise Basic starts at $250/mo. |
+| **[Langfuse](https://langfuse.com/)** | Comprehensive LLM observability platform with detailed token tracking, cost analysis, and optimization insights. | **Free:** Hobby tier (50k units/mo). **Paid:** Core starts at $29/mo; Pro at $199/mo. |
+| **[Helicone](https://helicone.ai/)** | Observability proxy focused on caching and request logging to reduce redundant token usage. | **Free:** Hobby (10k requests/mo). **Paid:** Pro starts at $79/mo. |
+| **[Portkey AI](https://portkey.ai/)** | AI gateway and control plane with strong caching and cost-control features. | **Free:** Dev (10k logs/mo). **Paid:** Pro starts at $499/mo. |
+| **[PromptLayer](https://promptlayer.com/)** | Middleware for prompt management, observability, and evaluation with deep integration. | **Free:** 2,500 requests/mo. **Paid:** Pro starts at $49/mo. |
+| **[Redis LangCache](https://redis.io/)** | Semantic caching solution using Redis to store and retrieve LLM responses, avoiding repeat token usage. | **Free:** Public Preview. **Paid:** Est. $1.50/1M input tokens. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: PromptEval, Helicone, Portkey, and various semantic caching layers.
+| Product | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **[Patronus AI](https://patronus.ai/)** | AI safety and evaluation platform with token usage monitoring and optimization capabilities. | **Free:** Basic experimentation plan. **Paid:** Subscriptions start at ~$20/mo. |
+| **[PromptEval](https://prompteval.ai/)** | Platform for prompt testing and automated scoring across clarity and specificity. | **Free:** 1,000 eval runs/mo. **Paid:** Pro starts at $19/mo. |
+| **[LLMLingua](https://github.com/microsoft/LLMLingua)** | Prompt compression tool that reduces token usage using smaller models for selective compression. | **Free:** MIT Licensed (OSS). Commercial support/extensions available. |
+
+**Other notable mentions**: Additional semantic caching layers and specialized observability tools.
 
 ## Open-Source GitHub Projects
 
