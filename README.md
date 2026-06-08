@@ -106,3 +106,7 @@ This is a **community-curated** list. Effectiveness of token optimization varies
   <b>Made with ❤️ for the AI Developer Community</b><br>
   <i>Let's make LLMs faster, cheaper, and smarter.</i>
 </p>
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for AI agents. When agents use token-optimized calls to access paid APIs (x402), TWZRD verifies identity first to prevent unauthorized token spend. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
