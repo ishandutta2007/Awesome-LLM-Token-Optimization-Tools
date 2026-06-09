@@ -1,16 +1,24 @@
 # 🚀 Awesome LLM Token Optimization Tools
+<div align="center">
+
 ## 🛠️ The Ultimate Ecosystem for LLM Efficiency & Cost Reduction
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-Optimization-blue?style=for-the-badge&logo=openai" alt="LLM Optimization Banner" width="400">
 </p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-LLM-Token-Optimization-Tools/graphs/commit-activity)
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 **A curated list of state-of-the-art SaaS platforms and Open-Source projects designed to slash LLM costs and latency.**
+
+</div>
 
 ---
 
