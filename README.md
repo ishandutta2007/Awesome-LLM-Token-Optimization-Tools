@@ -39,24 +39,19 @@ In the world of Generative AI, **Tokens = Money + Latency**. Reducing token usag
 
 ## ✨ SaaS Products
 
-### 🏆 Core Platforms (LLM Token Optimization)
+### 🏆 Curated SaaS Platforms (Sorted by Company Size)
 
-| Product | 📝 Description | 💰 Pricing & Free Tier |
-| :--- | :--- | :--- |
-| **[LiteLLM](https://litellm.ai/)** | 🌉 Unified LLM gateway with built-in caching, fallback, and cost optimization across 100+ providers. | **Free:** Community Edition (Self-hosted). **Paid:** Enterprise Basic starts at $250/mo. |
-| **[Langfuse](https://langfuse.com/)** | 📊 Comprehensive LLM observability platform with detailed token tracking and optimization insights. | **Free:** Hobby tier (50k units/mo). **Paid:** Core starts at $29/mo. |
-| **[Helicone](https://helicone.ai/)** | 🔍 Observability proxy focused on caching and request logging to reduce redundant token usage. | **Free:** Hobby (10k requests/mo). **Paid:** Pro starts at $79/mo. |
-| **[Portkey AI](https://portkey.ai/)** | 🏎️ AI gateway and control plane with strong caching and cost-control features. | **Free:** Dev (10k logs/mo). **Paid:** Pro starts at $499/mo. |
-| **[PromptLayer](https://promptlayer.com/)** | 📑 Middleware for prompt management, observability, and evaluation with deep integration. | **Free:** 2,500 requests/mo. **Paid:** Pro starts at $49/mo. |
-| **[Redis LangCache](https://redis.io/)** | 🧠 Semantic caching solution using Redis to store and retrieve LLM responses, avoiding repeat token usage. | **Free:** Public Preview. **Paid:** Est. $1.50/1M input tokens. |
-
-### 🚀 Advanced & Specialized Platforms
-
-| Product | 📝 Description | 💰 Pricing & Free Tier |
-| :--- | :--- | :--- |
-| **[Patronus AI](https://patronus.ai/)** | 🛡️ AI safety and evaluation platform with token usage monitoring and optimization capabilities. | **Free:** Basic experimentation plan. **Paid:** Subscriptions start at ~$20/mo. |
-| **[PromptEval](https://prompteval.ai/)** | 📏 Platform for prompt testing and automated scoring across clarity and specificity. | **Free:** 1,000 eval runs/mo. **Paid:** Pro starts at $19/mo. |
-| **[LLMLingua](https://github.com/microsoft/LLMLingua)** | 📉 Prompt compression tool that reduces token usage using smaller models for selective compression. | **Free:** MIT Licensed (OSS). Commercial support/extensions available. |
+| Product | 🏢 Company Size | 📝 Description | 💰 Pricing & Free Tier |
+| :--- | :--- | :--- | :--- |
+| **[LLMLingua](https://github.com/microsoft/LLMLingua)** | **$3.1T** (Valuation) | 📉 Prompt compression tool that reduces token usage using smaller models for selective compression. | **Free:** MIT Licensed (OSS). Commercial support available. |
+| **[Redis LangCache](https://redis.io/)** | **$2B** (Valuation) | 🧠 Semantic caching solution using Redis to store and retrieve LLM responses, avoiding repeat token usage. | **Free:** Public Preview. **Paid:** Est. $1.50/1M input tokens. |
+| **[Patronus AI](https://patronus.ai/)** | **~$75M** (Valuation) | 🛡️ AI safety and evaluation platform with token usage monitoring and optimization capabilities. | **Free:** Basic experimentation plan. **Paid:** Starts at ~$20/mo. |
+| **[Langfuse](https://langfuse.com/)** | **~$20M** (Valuation) | 📊 Comprehensive LLM observability platform with detailed token tracking and optimization insights. | **Free:** Hobby tier (50k units/mo). **Paid:** Core starts at $29/mo. |
+| **[Portkey AI](https://portkey.ai/)** | **~$15M** (Valuation) | 🏎️ AI gateway and control plane with strong caching and cost-control features. | **Free:** Dev (10k logs/mo). **Paid:** Pro starts at $499/mo. |
+| **[PromptLayer](https://promptlayer.com/)** | **~$15M** (Valuation) | 📑 Middleware for prompt management, observability, and evaluation with deep integration. | **Free:** 2,500 requests/mo. **Paid:** Pro starts at $49/mo. |
+| **[LiteLLM](https://litellm.ai/)** | **~$10M** (Valuation) | 🌉 Unified LLM gateway with built-in caching, fallback, and cost optimization across 100+ providers. | **Free:** Community Edition (Self-hosted). **Paid:** Starts at $250/mo. |
+| **[Helicone](https://helicone.ai/)** | **$3M** (Valuation) | 🔍 Observability proxy focused on caching and request logging to reduce redundant token usage. | **Free:** Hobby (10k requests/mo). **Paid:** Pro starts at $79/mo. |
+| **[PromptEval](https://prompteval.ai/)** | **~$2M** (Grants) | 📏 Platform for prompt testing and automated scoring across clarity and specificity. | **Free:** 1,000 eval runs/mo. **Paid:** Pro starts at $19/mo. |
 
 ---
 
