@@ -57,21 +57,21 @@ In the world of Generative AI, **Tokens = Money + Latency**. Reducing token usag
 
 ## 📦 Open-Source GitHub Projects
 
-### 🛠️ Dedicated LLM Token Optimization Projects
+### 🛠️ Dedicated LLM Token Optimization Projects (Sorted by Stars)
 
-- **[LLMLingua](https://github.com/microsoft/LLMLingua)** 📉  
-  Microsoft’s powerful prompt compression framework. Achieves up to **20x compression** with minimal quality loss.
-  
-- **[LiteLLM](https://github.com/BerriAI/litellm)** 🌉  
+- **[LiteLLM](https://github.com/BerriAI/litellm)** [![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&label=Stars&color=white)](https://github.com/BerriAI/litellm/stargazers) 🌉  
   Lightweight proxy to call 100+ LLM APIs using OpenAI format. Features managed caching and budget alerts.
 
-- **[Langfuse](https://github.com/langfuse/langfuse)** 📊  
+- **[Langfuse](https://github.com/langfuse/langfuse)** [![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&label=Stars&color=white)](https://github.com/langfuse/langfuse/stargazers) 📊  
   Open-source observability and analytics. Track every token and optimize your prompt lifecycle.
 
-- **[Headroom](https://github.com/chopratejas/headroom)** 🏠  
+- **[Headroom](https://github.com/chopratejas/headroom)** [![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=social&label=Stars&color=white)](https://github.com/chopratejas/headroom/stargazers) 🏠  
   Intelligent context compression for logs, RAG chunks, and long outputs.
 
-- **[claw-compactor](https://github.com/open-compress/claw-compactor)** 🦀  
+- **[LLMLingua](https://github.com/microsoft/LLMLingua)** [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social&label=Stars&color=white)](https://github.com/microsoft/LLMLingua/stargazers) 📉  
+  Microsoft’s powerful prompt compression framework. Achieves up to **20x compression** with minimal quality loss.
+
+- **[claw-compactor](https://github.com/open-compress/claw-compactor)** [![Stars](https://img.shields.io/github/stars/open-compress/claw-compactor?style=social&label=Stars&color=white)](https://github.com/open-compress/claw-compactor/stargazers) 🦀  
   Reversible LLM token compression with AST-aware analysis.
 
 - **[semantic-cache](https://github.com/search?q=semantic+cache+llm)** 🧠  
