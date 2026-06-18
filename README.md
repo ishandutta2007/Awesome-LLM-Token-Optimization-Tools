@@ -87,7 +87,7 @@ In the world of Generative AI, **Tokens = Money + Latency**. Reducing token usag
 - **[claw-compactor](https://github.com/open-compress/claw-compactor)** [![Stars](https://img.shields.io/github/stars/open-compress/claw-compactor?style=social&label=Stars&color=white)](https://github.com/open-compress/claw-compactor/stargazers) 🦀  
   Reversible LLM token compression with AST-aware analysis and 14-stage fusion pipeline.
 
-- **[GPTCache](https://github.com/zilliztech/GPTCache)** [![Stars](https://img.shields.io/github/stars/HoangP8/tokless?style=social&label=Stars&color=white)](https://github.com/zilliztech/GPTCache/stargazers) 🧠  
+- **[GPTCache](https://github.com/zilliztech/GPTCache)** [![Stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social&label=Stars&color=white)](https://github.com/zilliztech/GPTCache/stargazers) 🧠  
   General search for various semantic caching layers (Redis, Milvus, Qdrant).
 
 - **[tokless](https://github.com/HoangP8/tokless)** [![Stars](https://img.shields.io/github/stars/HoangP8/tokless?style=social&label=Stars&color=white)](https://github.com/HoangP8/tokless/stargazers) 🛠️  
