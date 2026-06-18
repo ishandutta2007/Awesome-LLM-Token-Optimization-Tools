@@ -74,6 +74,9 @@ In the world of Generative AI, **Tokens = Money + Latency**. Reducing token usag
 - **[claw-compactor](https://github.com/open-compress/claw-compactor)** [![Stars](https://img.shields.io/github/stars/open-compress/claw-compactor?style=social&label=Stars&color=white)](https://github.com/open-compress/claw-compactor/stargazers) 🦀  
   Reversible LLM token compression with AST-aware analysis.
 
+- **[llmtrim](https://github.com/fkiene/llmtrim)** [![Stars](https://img.shields.io/github/stars/fkiene/llmtrim?style=social&label=Stars&color=white)](https://github.com/fkiene/llmtrim/stargazers) 🦀  
+  Local MITM proxy, MCP server, CLI, and library that compresses prompts, tool outputs, and replies to cut tokens, quality-gated so it never raises your bill.
+
 - **[semantic-cache](https://github.com/search?q=semantic+cache+llm)** 🧠  
   General search for various semantic caching layers (Redis, Milvus, Qdrant).
 
